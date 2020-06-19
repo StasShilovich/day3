@@ -1,4 +1,4 @@
-package day3.service;
+package test.shilovich.day3.service;
 
 import com.shilovich.day3.entity.Ball;
 import com.shilovich.day3.entity.Basket;

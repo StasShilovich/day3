@@ -1,4 +1,4 @@
-package day3.entity;
+package test.shilovich.day3.entity;
 
 import com.shilovich.day3.entity.Ball;
 import com.shilovich.day3.entity.Basket;

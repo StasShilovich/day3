@@ -1,4 +1,4 @@
-package day3.creator;
+package test.shilovich.day3.creator;
 
 import com.shilovich.day3.creator.BallCreator;
 import com.shilovich.day3.entity.Ball;
